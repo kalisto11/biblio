@@ -18,6 +18,7 @@
 							<a href="#">Télécharger l'app</a>
 							<a href="#">Assistance technique</a>
 							<a href="#">Contact</a>
+							<a href="#">Contact 2</a>
 				</div><!-- fin subheader -->
 				<div id="mainheader">
 					<div id="logo">
