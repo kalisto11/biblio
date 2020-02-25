@@ -25,7 +25,7 @@
 				<input type="reset" value="Annuler" />
 		</p>
 	</form>
-	<h3> Commentaires </h3>
+	<h3>Commentaires</h3>
 	<div>
 		<?php
 		foreach($idsCommentaires as $commentaireInfos)

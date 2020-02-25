@@ -2,10 +2,10 @@
 <h3> Liste des livres </h3>
 <table>
 	<tr>
-		<th> Titre </th>
-		<th> Auteur </th>
-		<th> Description </th>
-		<th> Date de publication </th>
+		<th>Titre</th>
+		<th>Auteur</th>
+		<th>Description</th>
+		<th>Date de publication</th>
 	</tr>
 	<?php
 		foreach ($livresIds as $livreInfos)
